@@ -1,0 +1,82 @@
+[
+    {
+        "question": "You have two job offers - one with high pay but long hours, and the other with moderate pay and regular hours. What influences your decision?",
+        "choice1": "Job Location",
+        "choice2": "Regular hours",
+        "choice3": "High pay",
+        "choice4": "Job title",
+        "answer": 1
+    },
+    {
+        "question": "If a plane crashes on the border of the United States and Canada, where do they bury the survivors?",
+        "choice1": "In the United States",
+        "choice2": "In the survivors' home countries",
+        "choice3": "In Canada",
+        "choice4": "Nowhere",
+        "answer": 4
+    },
+    {
+        "question":"What comes next in the sequence: 2, 5, 10, 17, _?",
+        "choice1": "24",
+        "choice2": "25",
+        "choice3": "26",
+        "choice4": "22",
+        "answer": 3
+    },
+    {
+        "question":"Your friend needs advice on choosing a laptop. Some recommend brand A, while others recommend brand B. How do you help your friend decide?",
+        "choice1": "Recommend brand A since it's more popular",
+        "choice2": "Suggest brand B based on positive reviews",
+        "choice3": "Ask about your friend's specific needs and preferences",
+        "choice4": "Let your friend decide independently",
+        "answer": 3
+    },
+    {
+        "question":"Find the missing number: 6, 12, _, 24, 30.",
+        "choice1": "13",
+        "choice2": "18",
+        "choice3": "15",
+        "choice4": "20",
+        "answer": 2
+    },
+    {
+        "question":"If all cats can fly, and Fluffy is a cat, what can we conclude?",
+        "choice1": "Fluffy can fly",
+        "choice2": "Fluffy cannot fly",
+        "choice3": "All animals can fly",
+        "choice4": "Some cats can fly",
+        "answer": 1
+    },
+    {
+        "question":"You're planning a dinner menu for a diverse group. Some are vegetarian, and others prefer non-vegetarian. How do you decide the menu?",
+        "choice1": "Decide based on your own food preferences",
+        "choice2": "Choose an all-vegetarian menu to accommodate everyone",
+        "choice3": "Focus on a non-vegetarian menu since it's more popular",
+        "choice4": "Offer a variety with both vegetarian and non-vegetarian options",
+        "answer": 4
+    },
+    {
+        "question":"What comes next in the series: 3, 6, 12, 24, ___?",
+        "choice1": "48",
+        "choice2": "36",
+        "choice3": "30",
+        "choice4": "32",
+        "answer": 1
+    },
+    {
+        "question":"Pen is to write as spoon is to:",
+        "choice1": "Cut",
+        "choice2": "Stab",
+        "choice3": "Sculpt",
+        "choice4": "Eat",
+        "answer": 4
+    },
+    {
+        "question":"If some books are red, and this book is not red, what can we infer?",
+        "choice1": "This book is blue",
+        "choice2": "This book is red",
+        "choice3": "This book is not a book",
+        "choice4": "This book is green",
+        "answer": 2
+    }
+]
